@@ -16,12 +16,12 @@ The purpose of this repository is to work through the exercises presented in *Py
 
 **Part 1:**
 1. Getting Started
-    * 1-1 python.org
-    * 1-2 Hello World Typos
-    * 1-3 Infinite Skills
+    * ~~1-1 python.org~~
+    * ~~1-2 Hello World Typos~~
+    * ~~1-3 Infinite Skills~~
 2. Variables and Simple Data Types
-    * 2-1 Simple Message
-    * 2-2 Simple Messages
+    * ~~2-1 Simple Message~~
+    * ~~2-2 Simple Messages~~
     * 2-3 Personal Message
     * 2-4 Name Cases
     * 2-5 Famous Quote
