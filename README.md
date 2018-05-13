@@ -32,33 +32,33 @@ The purpose of this repository is to work through the exercises presented in *Py
     * ~~2-10 Adding Comments~~
     * ~~2-11 Zen of Python~~
 3. Introducing Lists
-    * 3-1 Names
-    * 3-2 Greetings
-    * 3-3 Your Own List
-    * 3-4 Guest List
-    * 3-5 Changing Guest List
-    * 3-6 More Guests
-    * 3-7 Shrinking Guest List
-    * 3-8 Seeing the World
-    * 3-9 Dinner Guests
-    * 3-10 Every Function
-    * 3-11 Intentional Error
+    * ~~3-1 Names~~
+    * ~~3-2 Greetings~~
+    * ~~3-3 Your Own List~~
+    * ~~3-4 Guest List~~
+    * ~~3-5 Changing Guest List~~
+    * ~~3-6 More Guests~~
+    * ~~3-7 Shrinking Guest List~~
+    * ~~3-8 Seeing the World~~
+    * ~~3-9 Dinner Guests~~
+    * ~~3-10 Every Function~~
+    * ~~3-11 Intentional Error~~
 4. Working With Lists
-    * 4-1 Pizzas
-    * 4-2 Animals
-    * 4-3 Counting to Twenty
-    * 4-4 One Million
-    * 4-5 Summing a Million
-    * 4-6 Odd Numbers
-    * 4-7 Threes
-    * 4-8 Cubes
-    * 4-9 Cube Comprehension
-    * 4-10 Slices
-    * 4-11 My Pizzas, Your Pizzas
-    * 4-12 More Loops
-    * 4-13 Buffet
-    * 4-14 PEP-8
-    * 4-15 Code Review
+    * ~~4-1 Pizzas~~
+    * ~~4-2 Animals~~
+    * ~~4-3 Counting to Twenty~~
+    * ~~4-4 One Million~~
+    * ~~4-5 Summing a Million~~
+    * ~~4-6 Odd Numbers~~
+    * ~~4-7 Threes~~
+    * ~~4-8 Cubes~~
+    * ~~4-9 Cube Comprehension~~
+    * ~~4-10 Slices~~
+    * ~~4-11 My Pizzas, Your Pizzas~~
+    * ~~4-12 More Loops~~
+    * ~~4-13 Buffet~~
+    * ~~4-14 PEP-8~~
+    * ~~4-15 Code Review~~
 5. If Statements
 6. Dictionaries
 7. User Input and *while* Loops
